@@ -1,4 +1,4 @@
-# Tryhackme-BufferOverflow-prep
+# BufferOverflow-prep
     The SLMail installer.
     The brainpan binary.
     The dostackbufferoverflowgood binary.
